@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F3A5AF4D-FA1A-DEA6-BB23-A48A7B43D2A9}") = "Jet Pac 3D", "Assembly-CSharp.csproj", "{8B85443C-27C4-FAA9-422F-3E5798DC3A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B85443C-27C4-FAA9-422F-3E5798DC3A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B85443C-27C4-FAA9-422F-3E5798DC3A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B85443C-27C4-FAA9-422F-3E5798DC3A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B85443C-27C4-FAA9-422F-3E5798DC3A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
